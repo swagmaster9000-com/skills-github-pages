@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Keep Yourself Sane
 ---
